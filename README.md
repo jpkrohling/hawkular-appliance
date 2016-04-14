@@ -1,6 +1,6 @@
-# ManageIQ Appliance
+# Hawkular Appliance
 
-System files for the [ManageIQ](http://github.com/manageiq/manageiq) appliance.
+System files for the [Hawkular](https://github.com/hawkular/hawkular) appliance.
 
 ## License
 
